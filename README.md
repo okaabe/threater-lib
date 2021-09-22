@@ -23,5 +23,5 @@ discord.gg/AcmhNjG
 
 # Contribuidores
 
-- Night#1605 (Eu mesmo)
+- Tosuki#1605
 - Tsugami#2619 (https://github.com/Tsugami)
